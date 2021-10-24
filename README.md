@@ -1,4 +1,0 @@
-# PHARMACY MANAGEMENT USING SQL
-XAMPP AND MYSQL
-
-<h4>Note: Screenshots Enclosed</h4>
